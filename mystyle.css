@@ -1,0 +1,26 @@
+td, div.intro, div{
+font-family: 'Cambria',Arial,sans-serif;
+}
+a.heading{
+    font-size: 20px;
+
+    color: #008fff;
+
+    line-height:200%;
+    
+    font-weight:bold; 
+}
+
+div.banner{
+
+    margin-bottom: 5px;
+
+    margin-top: 5px;
+
+    background: url('logo.png') no-repeat;
+
+    height: 74px;
+    
+    background-color: #EBF0EB;
+}
+
